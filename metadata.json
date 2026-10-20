@@ -1,0 +1,6 @@
+{
+  "name": "PayGuard AI - Statutory Compliance & Pre-Payroll Pre-Processor",
+  "description": "Pre-payroll statutory audit, minimum wage enforcement, EPF ₹25K ceiling reconciliation, and CLRA Form T compliance for Indian retail, QSR & logistics enterprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
